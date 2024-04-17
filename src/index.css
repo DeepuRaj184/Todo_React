@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* echo "# react-new" >> README.md
+git init
+git add add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DeepuRaj184/react-new.git
+git push -u origin main */
